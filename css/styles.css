@@ -126,6 +126,8 @@ img {
 
 /* #region Main section */
 .hero {
+    max-width: 1440px;
+    margin: 0 auto;
     padding: 188px 0;
     background-color: #2e2f42 ;
 }
@@ -202,6 +204,8 @@ img {
 
 /* #region Team section */
 .team {
+    max-width: 1440px;
+    margin: 0 auto;
     background-color: #f4f4fd;
 }
 .team-title {
@@ -293,6 +297,8 @@ img {
 
 /* #region Footer section */
 .footer {
+    max-width: 1440px;
+    margin: 0 auto;
     padding: 100px 0 100px;
     background-color: #2e2f42;
 }
