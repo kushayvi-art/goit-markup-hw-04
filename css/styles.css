@@ -292,6 +292,9 @@ img {
     border-radius: 50%;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.socials-team-icon {
+    fill: #f4f4fd;
+}
 .socials-team-link:hover,
 .socials-team-link:focus {
     background-color: #404bbf;
@@ -435,6 +438,9 @@ img {
     background-color: #4D5AE5;
     border-radius: 50%;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.socials-icon {
+    fill: #f4f4fd;
 }
 .socials-link:hover,
 .socials-link:focus {
